@@ -7,9 +7,8 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 danielzaghis6@gmail.com
 
-![](![image](https://github.com/user-attachments/assets/1a35af4d-343d-45fe-85e1-32e5a12e98d2)
-)
-<!--
+![](https://images.app.goo.gl/gtXafanWyCRQD7bJ9)
+
 **Noroestino/Noroestino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
