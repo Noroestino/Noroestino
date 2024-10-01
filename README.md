@@ -7,6 +7,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 danielzaghis6@gmail.com
 
+![](https://www.google.com/imgres?q=acesso%20do%20noroeste&imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FGKk2dL3XAAAb7c1.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fec_noroeste&docid=f-3VY60dl6uROM&tbnid=cj5cC11k8UGDEM&vet=12ahUKEwje1ObKr-6IAxUHqZUCHe4sJxcQM3oECEAQAA..i&w=906&h=1080&hcb=2&ved=2ahUKEwje1ObKr-6IAxUHqZUCHe4sJxcQM3oECEAQAA)
 <!--
 **Noroestino/Noroestino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
