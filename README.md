@@ -7,7 +7,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 danielzaghis6@gmail.com
 
-![](https://images.app.goo.gl/gtXafanWyCRQD7bJ9)
+![](https://upload.wikimedia.org/wikipedia/en/9/93/Esporte_Clube_Noroeste_logo.gif)
 
 **Noroestino/Noroestino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
